@@ -5,12 +5,12 @@ This project analyzes customer churn for a telecom company using a dataset of **
 
 ## **Project Workflow**  
 
-### **ETL Process in SQL Server**  
+### **1. ETL Process in SQL Server**  
 - Handled **null values** and corrected **data types** for accuracy and consistency.  
 - Stored the **cleaned dataset** into a new table.  
 - Created **two additional views** for use in the dashboard and prediction model.  
 
-### **Data Preparation and Visualization in Power BI**  
+### **2. Data Preparation and Visualization in Power BI**  
 - Customer churn data was analyzed based on:  
 - **Demographics:** Age and gender of customers
 - **Geographic distribution:** Churn trends by location   
@@ -18,7 +18,7 @@ This project analyzes customer churn for a telecom company using a dataset of **
 - **Services:** Internet type and services availed
 - Visualized the summary of findings to highlight trends in customer churn.  
 
-### **Churn Prediction Model**  
+### **3. Churn Prediction Model**  
 A **Random Forest Classifier** was implemented to predict customer churn. The dataset was preprocessed, split into training (80%) and testing (20%) sets. The model was trained on key customer attributes and evaluated using a confusion matrix and classification report** to assess accuracy. Finally, the trained model was used to **predict churn**, with results exported for further analysis.  
 
 ## **Key Findings**  
