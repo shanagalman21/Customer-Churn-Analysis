@@ -1,7 +1,7 @@
 # Customer-Churn-Analysis
 
 ## **Project Description**  
-This project analyzes customer churn for a telecom company using a dataset of **6,418 records**. It involves data extraction, transformation, and loading (**ETL**) in SQL, followed by visualization and analysis in Power BI. A **machine learning model** is also implemented to predict customer churn, helping identify at-risk customers.  
+This project analyzes customer churn for a telecom company using a dataset of **6,418 records**. It involves data extraction, transformation, and loading (**ETL**) in SQL, followed by **visualization and analysis** in Power BI. A **machine learning model** in Python is also implemented to predict customer churn, helping identify at-risk customers.  
 
 ## **Project Workflow**  
 
@@ -19,7 +19,7 @@ This project analyzes customer churn for a telecom company using a dataset of **
 - Visualized the summary of findings to highlight trends in customer churn.  
 
 ### **3. Churn Prediction Model**  
-A **Random Forest Classifier** was implemented to predict customer churn. The dataset was preprocessed, split into training (80%) and testing (20%) sets. The model was trained on key customer attributes and evaluated using a confusion matrix and classification report** to assess accuracy. Finally, the trained model was used to **predict churn**, with results exported for further analysis.  
+A **Random Forest Classifier** was implemented to predict customer churn. The dataset was preprocessed, split into training (80%) and testing (20%) sets. The model was trained on key customer attributes and evaluated using a confusion matrix and classification report to assess accuracy. Finally, the trained model was used to **predict customer churn**, with results visualized for further analysis.  
 
 ## **Key Findings**  
 - 1,732 out of 6,418 customers have churned **(27% Churn Rate)** 
