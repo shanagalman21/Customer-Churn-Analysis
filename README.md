@@ -1,4 +1,4 @@
-# Customer-Churn-Analysis
+# Customer Churn Analysis
 
 ## **Project Description**  
 This project analyzes customer churn for a telecom company using a dataset of **6,418 records**. It involves data extraction, transformation, and loading (**ETL**) in SQL, followed by **data visualization and analysis** through dashboard creation in Power BI. A **machine learning model** in Python is also implemented to predict customer churn, helping identify at-risk customers.  
